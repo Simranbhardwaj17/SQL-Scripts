@@ -14,4 +14,4 @@ SELECT * FROM herbi;
 -- to select DATABASE
 USE hospital; 
 
-SELECT * FROM patient;
+SELECT * FROM patient;  
