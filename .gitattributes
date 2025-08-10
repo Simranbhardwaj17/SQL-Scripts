@@ -1,1 +1,3 @@
 *.sql text eol=lf
+
+# Now SQL scripts keep the same line endings everywhere (Windows, Mac, Linux) while push to GitHub.
